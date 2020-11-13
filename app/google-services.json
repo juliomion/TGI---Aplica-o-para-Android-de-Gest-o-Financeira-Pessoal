@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123725317539",
+    "firebase_url": "https://monetizze-a851a.firebaseio.com",
+    "project_id": "monetizze-a851a",
+    "storage_bucket": "monetizze-a851a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123725317539:android:137731c08c28500130c616",
+        "android_client_info": {
+          "package_name": "com.example.tgi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123725317539-2gbk4j9nr2snfol0kr0asp7tktuaf586.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tgi",
+            "certificate_hash": "812ab75077f7a7318d1140eaf226d345a3e3d055"
+          }
+        },
+        {
+          "client_id": "123725317539-sk12d1s7ua21nip1j0u6c63db9jtv9tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyjP8QyVBfI3G_EDyzdjLA4_mmssWH9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123725317539-sk12d1s7ua21nip1j0u6c63db9jtv9tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
